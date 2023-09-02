@@ -1,0 +1,255 @@
+FIR Number,Date and Time,Location,Latitude,Longitude,Accused Information,Accused email,criminal information,Incident Description,Crime Type
+FIR2024101,22-10-2023 09:30,Delhi,28.7040592,77.1024902,Ashok Sharma,ashok@email.com,Amit Patel,Theft of Mobile Phone,IPC 379
+FIR2024102,22-10-2023 14:15,Mumbai,19.0759837,72.8776559,Ramesh Verma,ramesh@email.com,Vinay Kumar,Physical Assault,IPC 351
+FIR2024103,23-10-2023 17:45,Kolkata,22.572646,88.363895,Rekha Das,rekha@email.com,Suresh Gupta,Burglary at Residence,IPC 454
+FIR2024104,23-10-2023 08:20,Chennai,13.0826802,80.2707184,Mohan Reddy,mohan@email.com,Lalitha Kumar,Robbery at Jewelry Store,IPC 392
+FIR2024105,24-10-2023 19:00,Bangalore,12.9715987,77.5945627,Sunita Menon,sunita@email.com,Arvind Desai,Vehicle Theft,IPC 379
+FIR2024106,24-10-2023 09:45,Hyderabad,17.385044,78.486671,Anand Rao,anand@email.com,Sarita Gupta,Physical Assault,IPC 351
+FIR2024107,25-10-2023 17:15,Pune,18.5204303,73.8567437,Aarti Shah,aarti@email.com,Rajesh Singh,Robbery at Bank,IPC 392
+FIR2024108,25-10-2023 08:30,Jaipur,26.9124336,75.7872709,Rajiv Mehta,rajiv@email.com,Shikha Sharma,Theft of Jewelry,IPC 379
+FIR2024109,26-10-2023 12:00,Lucknow,26.8466937,80.946166,Neha Verma,neha@email.com,Mukesh Yadav,Robbery at ATM,IPC 392
+FIR2024110,26-10-2023 16:30,Delhi,28.7040592,77.1024902,Karan Kapoor,karan@email.com,Manish Kumar,Burglary at Shop,IPC 454
+FIR2024111,27-10-2023 10:45,Mumbai,19.0759837,72.8776559,Anjali Khan,anjali@email.com,Rajesh Patel,Physical Assault,IPC 351
+FIR2024112,27-10-2023 19:30,Kolkata,22.572646,88.363895,Rohit Das,rohit@email.com,Surbhi Gupta,Theft of Electronics,IPC 379
+FIR2024113,28-10-2023 08:15,Chennai,13.0826802,80.2707184,Raghav Reddy,raghav@email.com,Kavita Kumar,Robbery at Gas Station,IPC 392
+FIR2024114,28-10-2023 17:40,Bangalore,12.9715987,77.5945627,Pooja Menon,pooja@email.com,Vikas Desai,Vehicle Theft,IPC 379
+FIR2024115,29-10-2023 09:20,Hyderabad,17.385044,78.486671,Shilpa Rao,shilpa@email.com,Satish Gupta,Assault in Public Place,IPC 351
+FIR2024116,29-10-2023 18:55,Pune,18.5204303,73.8567437,Aditya Shah,aditya@email.com,Ritu Singh,Burglary at Warehouse,IPC 454
+FIR2024117,30-10-2023 11:30,Jaipur,26.9124336,75.7872709,Neelam Mehta,neelam@email.com,Vikram Sharma,Robbery at Supermarket,IPC 392
+FIR2024118,30-10-2023 15:15,Lucknow,26.8466937,80.946166,Vishal Verma,vishal@email.com,Kirti Yadav,Theft of Valuables,IPC 379
+FIR2024119,31-10-2023 07:40,Delhi,28.7040592,77.1024902,Ravi Kapoor,ravi@email.com,Manisha Kumar,Physical Assault at Park,IPC 351
+FIR2024120,31-10-2023 16:25,Mumbai,19.0759837,72.8776559,Alka Khan,alka@email.com,Pradeep Patel,Robbery at Jewelry Store,IPC 392
+FIR2024121,01-11-2023 10:10,Kolkata,22.572646,88.363895,Suraj Das,suraj@email.com,Sunita Gupta,Burglary at Residence,IPC 454
+FIR2024122,01-11-2023 19:45,Chennai,13.0826802,80.2707184,Meenal Reddy,meenal@email.com,Krishna Kumar,Theft of Electronics,IPC 379
+FIR2024123,02-11-2023 08:30,Bangalore,12.9715987,77.5945627,Prakash Menon,prakash@email.com,Kiran Desai,Robbery at Bank,IPC 392
+FIR2024124,02-11-2023 18:00,Hyderabad,17.385044,78.486671,Shruti Rao,shruti@email.com,Vivek Gupta,Vehicle Theft,IPC 379
+FIR2024125,03-11-2023 11:20,Pune,18.5204303,73.8567437,Nisha Shah,nisha@email.com,Amit Singh,Assault in Public Place,IPC 351
+FIR2024126,03-11-2023 16:50,Jaipur,26.9124336,75.7872709,Ankit Mehta,ankit@email.com,Megha Sharma,Burglary at Shop,IPC 454
+FIR2024127,04-11-2023 09:10,Lucknow,26.8466937,80.946166,Kavita Verma,kavita@email.com,Sanjay Yadav,Robbery at ATM,IPC 392
+FIR2024128,04-11-2023 18:35,Delhi,28.7040592,77.1024902,Rahul Kapoor,rahul@email.com,Manisha Kumar,Theft of Valuables,IPC 379
+FIR2024129,05-11-2023 10:00,Mumbai,19.0759837,72.8776559,Arun Khan,arun@email.com,Pratik Patel,Physical Assault at Pub,IPC 351
+FIR2024130,05-11-2023 17:30,Kolkata,22.572646,88.363895,Suman Das,suman@email.com,Shweta Gupta,Burglary at Office,IPC 454
+FIR2024131,06-11-2023 08:55,Chennai,13.0826802,80.2707184,Shubham Reddy,shubham@email.com,Anita Kumar,Robbery at Gas Station,IPC 392
+FIR2024132,06-11-2023 19:20,Bangalore,12.9715987,77.5945627,Priya Menon,priya@email.com,Suresh Desai,Vehicle Theft,IPC 379
+FIR2024133,07-11-2023 09:40,Hyderabad,17.385044,78.486671,Varun Rao,varun@email.com,Kavita Gupta,Assault in Market,IPC 351
+FIR2024134,07-11-2023 16:15,Pune,18.5204303,73.8567437,Nandini Shah,nandini@email.com,Vikas Singh,Burglary at Warehouse,IPC 454
+FIR2024135,08-11-2023 11:10,Jaipur,26.9124336,75.7872709,Deepak Mehta,deepak@email.com,Swati Sharma,Robbery at Supermarket,IPC 392
+FIR2024136,08-11-2023 15:45,Lucknow,26.8466937,80.946166,Pankaj Verma,pankaj@email.com,Priya Yadav,Theft of Electronics,IPC 379
+FIR2024137,09-11-2023 08:25,Delhi,28.7040592,77.1024902,Anju Kapoor,anju@email.com,Rahul Kumar,Physical Assault at Mall,IPC 351
+FIR2024138,09-11-2023 17:55,Mumbai,19.0759837,72.8776559,Akshay Khan,akshay@email.com,Monica Patel,Robbery at Jewelry Store,IPC 392
+FIR2024139,10-11-2023 10:30,Kolkata,22.572646,88.363895,Shantanu Das,shantanu@email.com,Neha Gupta,Burglary at Residence,IPC 454
+FIR2024140,10-11-2023 18:10,Chennai,13.0826802,80.2707184,Sneha Reddy,sneha@email.com,Vivek Kumar,Theft of Electronics,IPC 379
+FIR2024141,11-11-2023 09:15,Bangalore,12.9715987,77.5945627,Raghav Menon,raghav@email.com,Priyanka Desai,Robbery at Bank,IPC 392
+FIR2024142,11-11-2023 19:50,Hyderabad,17.385044,78.486671,Kriti Rao,kriti@email.com,Sanjay Gupta,Vehicle Theft,IPC 379
+FIR2024143,12-11-2023 08:50,Pune,18.5204303,73.8567437,Rohan Shah,rohan@email.com,Shilpa Singh,Assault in Public Place,IPC 351
+FIR2024144,12-11-2023 17:35,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Burglary at Shop,IPC 454
+FIR2024145,13-11-2023 11:05,Lucknow,26.8466937,80.946166,Sandhya Verma,sandhya@email.com,Rajesh Yadav,Robbery at ATM,IPC 392
+FIR2024146,13-11-2023 16:45,Delhi,28.7040592,77.1024902,Preeti Kapoor,preeti@email.com,Manish Kumar,Theft of Valuables,IPC 379
+FIR2024147,14-11-2023 10:15,Mumbai,19.0759837,72.8776559,Sameer Khan,sameer@email.com,Kavita Patel,Physical Assault at Park,IPC 351
+FIR2024148,14-11-2023 19:30,Kolkata,22.572646,88.363895,Kunal Das,kunal@email.com,Ritika Gupta,Burglary at Office,IPC 454
+FIR2024149,15-11-2023 08:40,Chennai,13.0826802,80.2707184,Pooja Reddy,pooja@email.com,Manoj Kumar,Robbery at Gas Station,IPC 392
+FIR2024150,15-11-2023 17:20,Bangalore,12.9715987,77.5945627,Naveen Menon,naveen@email.com,Swati Desai,Vehicle Theft,IPC 379
+FIR2024201,22-10-2023 09:30,Delhi,28.7040592,77.1024902,Suresh Gupta,suresh@email.com,Anil Kumar,Robbery at Jewelry Store,IPC 392
+FIR2024202,22-10-2023 14:15,Mumbai,19.0759837,72.8776559,Priya Sharma,priya@email.com,Rahul Verma,Physical Assault in Public Place,IPC 351
+FIR2024203,23-10-2023 17:45,Kolkata,22.572646,88.363895,Rakesh Das,rakesh@email.com,Sunita Gupta,Burglary at Residence,IPC 454
+FIR2024204,23-10-2023 08:20,Chennai,13.0826802,80.2707184,Meenal Reddy,meenal@email.com,Arvind Desai,Robbery at Electronics Store,IPC 392
+FIR2024205,24-10-2023 19:00,Bangalore,12.9715987,77.5945627,Nisha Shah,nisha@email.com,Vikas Kumar,Vehicle Theft,IPC 379
+FIR2024206,24-10-2023 09:45,Hyderabad,17.385044,78.486671,Varun Rao,varun@email.com,Shilpa Singh,Assault at Market,IPC 351
+FIR2024207,25-10-2023 17:15,Pune,18.5204303,73.8567437,Rajiv Mehta,rajiv@email.com,Kavita Verma,Robbery at Bank,IPC 392
+FIR2024208,25-10-2023 08:30,Jaipur,26.9124336,75.7872709,Pankaj Verma,pankaj@email.com,Swati Sharma,Theft of Jewelry,IPC 379
+FIR2024209,26-10-2023 12:00,Lucknow,26.8466937,80.946166,Mohan Reddy,mohan@email.com,Lalitha Kumar,Robbery at ATM,IPC 392
+FIR2024210,26-10-2023 16:30,Delhi,28.7040592,77.1024902,Karan Kapoor,karan@email.com,Manisha Kumar,Burglary at Shop,IPC 454
+FIR2024211,27-10-2023 10:45,Mumbai,19.0759837,72.8776559,Anjali Khan,anjali@email.com,Rajesh Patel,Physical Assault at Mall,IPC 351
+FIR2024212,27-10-2023 19:30,Kolkata,22.572646,88.363895,Rohit Das,rohit@email.com,Surbhi Gupta,Theft of Electronics,IPC 379
+FIR2024213,28-10-2023 08:15,Chennai,13.0826802,80.2707184,Raghav Reddy,raghav@email.com,Kavita Kumar,Robbery at Gas Station,IPC 392
+FIR2024214,28-10-2023 17:40,Bangalore,12.9715987,77.5945627,Shilpa Rao,shilpa@email.com,Vivek Gupta,Vehicle Theft,IPC 379
+FIR2024215,29-10-2023 09:20,Hyderabad,17.385044,78.486671,Aditya Shah,aditya@email.com,Ritu Singh,Assault in Public Place,IPC 351
+FIR2024216,29-10-2023 18:55,Pune,18.5204303,73.8567437,Ankit Mehta,ankit@email.com,Megha Sharma,Burglary at Warehouse,IPC 454
+FIR2024217,30-10-2023 11:30,Jaipur,26.9124336,75.7872709,Kunal Das,kunal@email.com,Neelam Mehta,Robbery at Supermarket,IPC 392
+FIR2024218,30-10-2023 15:15,Lucknow,26.8466937,80.946166,Shantanu Das,shantanu@email.com,Neha Gupta,Theft of Valuables,IPC 379
+FIR2024219,31-10-2023 07:40,Delhi,28.7040592,77.1024902,Ravi Kapoor,ravi@email.com,Manish Kumar,Physical Assault at Park,IPC 351
+FIR2024220,31-10-2023 16:25,Mumbai,19.0759837,72.8776559,Akshay Khan,akshay@email.com,Pratik Patel,Robbery at Jewelry Store,IPC 392
+FIR2024221,01-11-2023 10:10,Kolkata,22.572646,88.363895,Suraj Das,suraj@email.com,Sunita Gupta,Burglary at Residence,IPC 454
+FIR2024222,01-11-2023 19:45,Chennai,13.0826802,80.2707184,Sneha Reddy,sneha@email.com,Krishna Kumar,Theft of Electronics,IPC 379
+FIR2024223,02-11-2023 08:30,Bangalore,12.9715987,77.5945627,Raghav Menon,raghav@email.com,Priyanka Desai,Robbery at Bank,IPC 392
+FIR2024224,02-11-2023 18:00,Hyderabad,17.385044,78.486671,Naveen Menon,naveen@email.com,Swati Desai,Vehicle Theft,IPC 379
+FIR2024225,03-11-2023 11:20,Pune,18.5204303,73.8567437,Pooja Reddy,pooja@email.com,Manoj Kumar,Assault in Market,IPC 351
+FIR2024226,03-11-2023 16:50,Jaipur,26.9124336,75.7872709,Anil Kumar,anil@email.com,Geeta Sharma,Burglary at Shop,IPC 454
+FIR2024227,04-11-2023 09:10,Lucknow,26.8466937,80.946166,Alok Mehta,alok@email.com,Priya Sharma,Robbery at ATM,IPC 392
+FIR2024228,04-11-2023 18:35,Delhi,28.7040592,77.1024902,Sameer Khan,sameer@email.com,Kavita Patel,Theft of Valuables,IPC 379
+FIR2024229,05-11-2023 10:00,Mumbai,19.0759837,72.8776559,Preeti Kapoor,preeti@email.com,Manish Kumar,Physical Assault at Pub,IPC 351
+FIR2024230,05-11-2023 17:30,Kolkata,22.572646,88.363895,Kriti Rao,kriti@email.com,Sanjay Gupta,Robbery at Jewelry Store,IPC 392
+FIR2024231,06-11-2023 08:55,Chennai,13.0826802,80.2707184,Shubham Reddy,shubham@email.com,Anita Kumar,Robbery at Electronics Store,IPC 392
+FIR2024232,06-11-2023 19:20,Bangalore,12.9715987,77.5945627,Sneha Reddy,sneha@email.com,Krishna Kumar,Vehicle Theft,IPC 379
+FIR2024233,07-11-2023 09:40,Hyderabad,17.385044,78.486671,Varun Rao,varun@email.com,Shilpa Singh,Assault at Market,IPC 351
+FIR2024234,07-11-2023 16:15,Pune,18.5204303,73.8567437,Rohan Shah,rohan@email.com,Shilpa Singh,Burglary at Warehouse,IPC 454
+FIR2024235,08-11-2023 11:10,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Robbery at Supermarket,IPC 392
+FIR2024236,08-11-2023 15:45,Lucknow,26.8466937,80.946166,Sandhya Verma,sandhya@email.com,Rajesh Yadav,Theft of Electronics,IPC 379
+FIR2024237,09-11-2023 08:25,Delhi,28.7040592,77.1024902,Anju Kapoor,anju@email.com,Rahul Kumar,Physical Assault at Mall,IPC 351
+FIR2024238,09-11-2023 17:55,Mumbai,19.0759837,72.8776559,Akshay Khan,akshay@email.com,Monica Patel,Robbery at Jewelry Store,IPC 392
+FIR2024239,10-11-2023 10:30,Kolkata,22.572646,88.363895,Shantanu Das,shantanu@email.com,Neha Gupta,Theft of Valuables,IPC 379
+FIR2024240,10-11-2023 18:10,Chennai,13.0826802,80.2707184,Sneha Reddy,sneha@email.com,Vivek Kumar,Robbery at Electronics Store,IPC 392
+FIR2024241,11-11-2023 09:15,Bangalore,12.9715987,77.5945627,Raghav Menon,raghav@email.com,Priyanka Desai,Robbery at Bank,IPC 392
+FIR2024242,11-11-2023 19:50,Hyderabad,17.385044,78.486671,Kriti Rao,kriti@email.com,Sanjay Gupta,Vehicle Theft,IPC 379
+FIR2024243,12-11-2023 08:50,Pune,18.5204303,73.8567437,Rohan Shah,rohan@email.com,Shilpa Singh,Assault in Public Place,IPC 351
+FIR2024244,12-11-2023 17:35,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Burglary at Shop,IPC 454
+FIR2024245,13-11-2023 11:05,Lucknow,26.8466937,80.946166,Sandhya Verma,sandhya@email.com,Rajesh Yadav,Robbery at ATM,IPC 392
+FIR2024246,13-11-2023 16:45,Delhi,28.7040592,77.1024902,Preeti Kapoor,preeti@email.com,Manish Kumar,Theft of Valuables,IPC 379
+FIR2024247,14-11-2023 10:15,Mumbai,19.0759837,72.8776559,Sameer Khan,sameer@email.com,Kavita Patel,Physical Assault at Park,IPC 351
+FIR2024248,14-11-2023 19:30,Kolkata,22.572646,88.363895,Kunal Das,kunal@email.com,Ritika Gupta,Robbery at Office,IPC 392
+FIR2024249,15-11-2023 08:40,Chennai,13.0826802,80.2707184,Pooja Reddy,pooja@email.com,Manoj Kumar,Robbery at Gas Station,IPC 392
+FIR2024250,15-11-2023 17:20,Bangalore,12.9715987,77.5945627,Naveen Menon,naveen@email.com,Swati Desai,Vehicle Theft,IPC 379
+FIR2024251,16-11-2023 11:30,Hyderabad,17.385044,78.486671,Varun Rao,varun@email.com,Kavita Gupta,Assault in Market,IPC 351
+FIR2024252,16-11-2023 16:55,Pune,18.5204303,73.8567437,Rajiv Mehta,rajiv@email.com,Swati Verma,Burglary at Warehouse,IPC 454
+FIR2024253,17-11-2023 09:45,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Robbery at Supermarket,IPC 392
+FIR2024254,17-11-2023 18:20,Lucknow,26.8466937,80.946166,Shantanu Das,shantanu@email.com,Neha Gupta,Theft of Electronics,IPC 379
+FIR2024255,18-11-2023 07:50,Delhi,28.7040592,77.1024902,Ravi Kapoor,ravi@email.com,Manish Kumar,Physical Assault at Mall,IPC 351
+FIR2024256,18-11-2023 16:25,Mumbai,19.0759837,72.8776559,Akshay Khan,akshay@email.com,Pratik Patel,Robbery at Jewelry Store,IPC 392
+FIR2024257,19-11-2023 10:10,Kolkata,22.572646,88.363895,Suraj Das,suraj@email.com,Sunita Gupta,Burglary at Residence,IPC 454
+FIR2024258,19-11-2023 19:45,Chennai,13.0826802,80.2707184,Sneha Reddy,sneha@email.com,Krishna Kumar,Theft of Electronics,IPC 379
+FIR2024259,20-11-2023 08:30,Bangalore,12.9715987,77.5945627,Raghav Menon,raghav@email.com,Priyanka Desai,Robbery at Bank,IPC 392
+FIR2024260,20-11-2023 18:00,Hyderabad,17.385044,78.486671,Naveen Menon,naveen@email.com,Swati Desai,Vehicle Theft,IPC 379
+FIR2024261,21-11-2023 11:20,Pune,18.5204303,73.8567437,Pooja Reddy,pooja@email.com,Manoj Kumar,Assault in Public Place,IPC 351
+FIR2024262,21-11-2023 16:50,Jaipur,26.9124336,75.7872709,Anil Kumar,anil@email.com,Geeta Sharma,Burglary at Shop,IPC 454
+FIR2024263,22-11-2023 09:10,Lucknow,26.8466937,80.946166,Alok Mehta,alok@email.com,Priya Sharma,Robbery at ATM,IPC 392
+FIR2024264,22-11-2023 18:35,Delhi,28.7040592,77.1024902,Sameer Khan,sameer@email.com,Kavita Patel,Theft of Valuables,IPC 379
+FIR2024265,23-11-2023 10:00,Mumbai,19.0759837,72.8776559,Preeti Kapoor,preeti@email.com,Manish Kumar,Physical Assault at Pub,IPC 351
+FIR2024266,23-11-2023 17:30,Kolkata,22.572646,88.363895,Kriti Rao,kriti@email.com,Sanjay Gupta,Robbery at Jewelry Store,IPC 392
+FIR2024267,24-11-2023 08:55,Chennai,13.0826802,80.2707184,Shubham Reddy,shubham@email.com,Anita Kumar,Robbery at Electronics Store,IPC 392
+FIR2024268,24-11-2023 19:20,Bangalore,12.9715987,77.5945627,Sneha Reddy,sneha@email.com,Krishna Kumar,Vehicle Theft,IPC 379
+FIR2024269,25-11-2023 09:40,Hyderabad,17.385044,78.486671,Varun Rao,varun@email.com,Shilpa Singh,Assault at Market,IPC 351
+FIR2024270,25-11-2023 16:15,Pune,18.5204303,73.8567437,Rohan Shah,rohan@email.com,Shilpa Singh,Burglary at Warehouse,IPC 454
+FIR2024271,26-11-2023 11:10,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Robbery at Supermarket,IPC 392
+FIR2024272,26-11-2023 15:45,Lucknow,26.8466937,80.946166,Sandhya Verma,sandhya@email.com,Rajesh Yadav,Theft of Electronics,IPC 379
+FIR2024273,27-11-2023 08:25,Delhi,28.7040592,77.1024902,Anju Kapoor,anju@email.com,Rahul Kumar,Physical Assault at Mall,IPC 351
+FIR2024274,27-11-2023 17:55,Mumbai,19.0759837,72.8776559,Akshay Khan,akshay@email.com,Monica Patel,Robbery at Jewelry Store,IPC 392
+FIR2024275,28-11-2023 10:30,Kolkata,22.572646,88.363895,Shantanu Das,shantanu@email.com,Neha Gupta,Theft of Valuables,IPC 379
+FIR2024276,28-11-2023 18:10,Chennai,13.0826802,80.2707184,Sneha Reddy,sneha@email.com,Vivek Kumar,Robbery at Electronics Store,IPC 392
+FIR2024277,29-11-2023 09:15,Bangalore,12.9715987,77.5945627,Raghav Menon,raghav@email.com,Priyanka Desai,Robbery at Bank,IPC 392
+FIR2024278,29-11-2023 19:50,Hyderabad,17.385044,78.486671,Kriti Rao,kriti@email.com,Sanjay Gupta,Vehicle Theft,IPC 379
+FIR2024279,30-11-2023 08:50,Pune,18.5204303,73.8567437,Rohan Shah,rohan@email.com,Shilpa Singh,Assault in Public Place,IPC 351
+FIR2024280,30-11-2023 17:35,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Burglary at Shop,IPC 454
+FIR2024281,01-12-2023 11:05,Lucknow,26.8466937,80.946166,Sandhya Verma,sandhya@email.com,Rajesh Yadav,Robbery at ATM,IPC 392
+FIR2024282,01-12-2023 16:45,Delhi,28.7040592,77.1024902,Preeti Kapoor,preeti@email.com,Manish Kumar,Theft of Valuables,IPC 379
+FIR2024283,02-12-2023 10:15,Mumbai,19.0759837,72.8776559,Sameer Khan,sameer@email.com,Kavita Patel,Physical Assault at Park,IPC 351
+FIR2024284,02-12-2023 19:30,Kolkata,22.572646,88.363895,Kunal Das,kunal@email.com,Ritika Gupta,Robbery at Office,IPC 392
+FIR2024285,03-12-2023 08:40,Chennai,13.0826802,80.2707184,Pooja Reddy,pooja@email.com,Manoj Kumar,Robbery at Gas Station,IPC 392
+FIR2024286,03-12-2023 17:20,Bangalore,12.9715987,77.5945627,Naveen Menon,naveen@email.com,Swati Desai,Vehicle Theft,IPC 379
+FIR2024287,04-12-2023 11:30,Hyderabad,17.385044,78.486671,Varun Rao,varun@email.com,Kavita Gupta,Assault in Market,IPC 351
+FIR2024288,04-12-2023 16:55,Pune,18.5204303,73.8567437,Rajiv Mehta,rajiv@email.com,Swati Verma,Burglary at Warehouse,IPC 454
+FIR2024289,05-12-2023 09:45,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Priya Sharma,Robbery at Supermarket,IPC 392
+FIR2024290,05-12-2023 18:20,Lucknow,26.8466937,80.946166,Shantanu Das,shantanu@email.com,Neha Gupta,Theft of Electronics,IPC 379
+FIR2024291,06-12-2023 07:50,Delhi,28.7040592,77.1024902,Ravi Kapoor,ravi@email.com,Manish Kumar,Physical Assault at Mall,IPC 351
+FIR2024292,06-12-2023 16:25,Mumbai,19.0759837,72.8776559,Akshay Khan,akshay@email.com,Pratik Patel,Robbery at Jewelry Store,IPC 392
+FIR2024293,07-12-2023 10:10,Kolkata,22.572646,88.363895,Suraj Das,suraj@email.com,Sunita Gupta,Burglary at Residence,IPC 454
+FIR2024294,07-12-2023 19:45,Chennai,13.0826802,80.2707184,Sneha Reddy,sneha@email.com,Krishna Kumar,Theft of Electronics,IPC 379
+FIR2024295,08-12-2023 08:30,Bangalore,12.9715987,77.5945627,Raghav Menon,raghav@email.com,Priyanka Desai,Robbery at Bank,IPC 392
+FIR2024296,08-12-2023 18:00,Hyderabad,17.385044,78.486671,Naveen Menon,naveen@email.com,Swati Desai,Vehicle Theft,IPC 379
+FIR2024297,09-12-2023 11:20,Pune,18.5204303,73.8567437,Pooja Reddy,pooja@email.com,Manoj Kumar,Assault in Public Place,IPC 351
+FIR2024298,09-12-2023 16:50,Jaipur,26.9124336,75.7872709,Anil Kumar,anil@email.com,Geeta Sharma,Burglary at Shop,IPC 454
+FIR2024299,10-12-2023 09:10,Lucknow,26.8466937,80.946166,Alok Mehta,alok@email.com,Priya Sharma,Robbery at ATM,IPC 392
+FIR2024300,10-12-2023 18:35,Delhi,28.7040592,77.1024902,Sameer Khan,sameer@email.com,Kavita Patel,Theft of Valuables,IPC 379
+FIR2024701,22-03-2024 09:30,Delhi,28.7040592,77.1024902,Ashok Sharma,ashok@email.com,Amit Patel,Theft of Mobile Phone,IPC 379
+FIR2024702,22-03-2024 14:15,Mumbai,19.0759837,72.8776559,Ramesh Verma,ramesh@email.com,Vinay Kumar,Physical Assault,IPC 351
+FIR2024703,23-03-2024 17:45,Bangalore,12.9715987,77.5945627,Radha Menon,radha@email.com,Gopal Singh,Domestic Violence,Protection of Women from Domestic Violence Act
+FIR2024704,24-03-2024 08:20,Jaipur,26.9124336,75.7872709,Naveen Yadav,naveen@email.com,Rani Devi,Burglary,IPC 454
+FIR2024705,25-03-2024 19:00,Chennai,13.0826802,80.2707184,Prakash Verma,prakash@email.com,Lalita Kumari,Robbery,IPC 392
+FIR2024706,26-03-2024 22:30,Hyderabad,17.385044,78.486671,Anjali Sharma,anjali@email.com,Mohan Singh,Identity Theft,IPC 420
+FIR2024707,27-03-2024 11:15,Kolkata,22.572646,88.363895,Ranjit Das,ranjit@email.com,Sumitra Gupta,Arson,IPC 435
+FIR2024708,28-03-2024 07:30,Lucknow,26.8466937,80.946166,Aisha Khan,aisha@email.com,Alok Tiwari,Domestic Violence,Protection of Women from Domestic Violence Act
+FIR2024709,29-03-2024 15:20,Delhi,28.7040592,77.1024902,Preeti Jain,preeti@email.com,Rahul Mehta,Corruption,Prevention of Corruption Act
+FIR2024710,30-03-2024 13:45,Mumbai,19.0759837,72.8776559,Rohit Kapoor,rohit@email.com,Sima Agarwal,Environmental Pollution,Various Environmental Laws
+FIR2024711,31-03-2024 16:25,Chennai,13.0826802,80.2707184,Aditya Verma,aditya@email.com,Deepa Sharma,Cyber Fraud,IT Act
+FIR2024712,01-04-2024 09:15,Bangalore,12.9715987,77.5945627,Maya Reddy,maya@email.com,Santosh Kumar,Child Trafficking,IPC 370
+FIR2024713,02-04-2024 12:30,Hyderabad,17.385044,78.486671,Kamal Singh,kamal@email.com,Rani Verma,Robbery at Jewelry Store,IPC 392
+FIR2024714,03-04-2024 18:10,Kolkata,22.572646,88.363895,Meera Sen,meera@email.com,Arvind Kumar,Theft of Mobile Phone,IPC 379
+FIR2024715,04-04-2024 10:40,Jaipur,26.9124336,75.7872709,Ravi Gupta,ravi@email.com,Sunita Verma,Physical Assault at Park,IPC 351
+FIR2024716,05-04-2024 14:55,Delhi,28.7040592,77.1024902,Sumit Shah,sumit@email.com,Priya Das,Robbery at Bank,IPC 392
+FIR2024717,06-04-2024 19:30,Mumbai,19.0759837,72.8776559,Neha Yadav,neha@email.com,Anil Tiwari,Robbery at Electronics Store,IPC 392
+FIR2024718,07-04-2024 08:50,Bangalore,12.9715987,77.5945627,Vijay Reddy,vijay@email.com,Leela Nair,Theft of Valuables,IPC 379
+FIR2024719,08-04-2024 11:10,Chennai,13.0826802,80.2707184,Rajesh Mehta,rajesh@email.com,Kavita Sharma,Burglary at Residence,IPC 454
+FIR2024720,09-04-2024 16:45,Lucknow,26.8466937,80.946166,Mohan Das,mohan@email.com,Asha Gupta,Kidnapping of a Minor,IPC 363
+FIR2024721,10-04-2024 13:30,Jaipur,26.9124336,75.7872709,Priya Singh,priya@email.com,Rahul Kapoor,Forgery of Documents,IPC 467
+FIR2024722,11-04-2024 09:25,Delhi,28.7040592,77.1024902,Nikhil Sharma,nikhil@email.com,Megha Verma,Drug Trafficking,NDPS Act
+FIR2024723,12-04-2024 08:15,Mumbai,19.0759837,72.8776559,Poonam Kapoor,poonam@email.com,Manoj Tiwari,Cyber Fraud,IT Act
+FIR2024724,13-04-2024 14:20,Kolkata,22.572646,88.363895,Rajiv Gupta,rajiv@email.com,Geeta Das,Human Trafficking,IPC 370
+FIR2024725,14-04-2024 10:55,Chennai,13.0826802,80.2707184,Shyam Kumar,shyam@email.com,Savita Reddy,Counterfeiting Currency,IPC 489-B
+FIR2024726,15-04-2024 07:40,Bangalore,12.9715987,77.5945627,Ananya Das,ananya@email.com,Rahul Sen,Public Nuisance,IPC 268
+FIR2024727,16-04-2024 17:15,Hyderabad,17.385044,78.486671,Raghav Sharma,raghav@email.com,Kiran Verma,Cyberbullying,IT Act
+FIR2024728,17-04-2024 12:05,Pune,18.5204303,73.8567437,Sandeep Mehta,sandeep@email.com,Sonia Kapoor,Stalking and Harassment,IPC 354D
+FIR2024729,18-04-2024 14:30,Jaipur,26.9124336,75.7872709,Tanvi Singh,tanvi@email.com,Arvind Das,Illegal Gambling,Various Gambling Laws
+FIR2024730,19-04-2024 08:35,Delhi,28.7040592,77.1024902,Aditi Tiwari,aditi@email.com,Prakash Reddy,Child Abuse,IPC 370
+FIR2024731,20-04-2024 10:20,Mumbai,19.0759837,72.8776559,Amit Verma,amit@email.com,Poonam Gupta,Money Laundering,Prevention of Money Laundering Act
+FIR2024732,21-04-2024 16:50,Kolkata,22.572646,88.363895,Sunil Yadav,sunil@email.com,Neeta Sharma,Animal Cruelty,IPC 428
+FIR2024733,22-04-2024 08:30,Chennai,13.0826802,80.2707184,Renuka Das,renuka@email.com,Vikas Mehta,Identity Theft,IPC 420
+FIR2024734,23-04-2024 12:40,Bangalore,12.9715987,77.5945627,Sanjay Verma,sanjay@email.com,Anita Reddy,Domestic Violence,Protection of Women from Domestic Violence Act
+FIR2024735,24-04-2024 15:00,Hyderabad,17.385044,78.486671,Gaurav Tiwari,gaurav@email.com,Komal Sharma,Burglary,IPC 454
+FIR2024736,25-04-2024 10:15,Lucknow,26.8466937,80.946166,Kavita Gupta,kavita@email.com,Krishna Das,Kidnapping of a Minor,IPC 363
+FIR2024737,26-04-2024 19:20,Delhi,28.7040592,77.1024902,Harish Mehta,harish@email.com,Rekha Verma,Physical Assault,IPC 351
+FIR2024738,27-04-2024 08:45,Mumbai,19.0759837,72.8776559,Ankit Yadav,ankit@email.com,Divya Kapoor,Robbery at Jewelry Store,IPC 392
+FIR2024739,28-04-2024 14:10,Bangalore,12.9715987,77.5945627,Prerna Das,prerna@email.com,Vijay Kumar,Theft of Mobile Phone,IPC 379
+FIR2024740,29-04-2024 17:35,Chennai,13.0826802,80.2707184,Ashish Mehta,ashish@email.com,Priyanka Tiwari,Robbery at Bank,IPC 392
+FIR2024741,30-04-2024 09:05,Kolkata,22.572646,88.363895,Vinod Gupta,vinod@email.com,Nisha Sharma,Robbery at Electronics Store,IPC 392
+FIR2024742,01-05-2024 12:15,Jaipur,26.9124336,75.7872709,Anita Reddy,anita@email.com,Anand Das,Theft of Valuables,IPC 379
+FIR2024743,02-05-2024 15:45,Delhi,28.7040592,77.1024902,Neeraj Kumar,neeraj@email.com,Komal Verma,Burglary at Residence,IPC 454
+FIR2024744,03-05-2024 10:10,Mumbai,19.0759837,72.8776559,Aparna Tiwari,aparna@email.com,Rahul Singh,Drug Trafficking,NDPS Act
+FIR2024745,04-05-2024 08:20,Bangalore,12.9715987,77.5945627,Pradeep Mehta,pradeep@email.com,Sneha Kapoor,Cyber Fraud,IT Act
+FIR2024746,05-05-2024 16:30,Hyderabad,17.385044,78.486671,Anupam Sharma,anupam@email.com,Vaishali Das,Human Trafficking,IPC 370
+FIR2024747,06-05-2024 09:50,Pune,18.5204303,73.8567437,Ritu Verma,ritu@email.com,Vinay Mehta,Counterfeiting Currency,IPC 489-B
+FIR2024748,07-05-2024 14:55,Jaipur,26.9124336,75.7872709,Anirudh Das,anirudh@email.com,Rachna Tiwari,Public Nuisance,IPC 268
+FIR2024749,08-05-2024 18:10,Delhi,28.7040592,77.1024902,Pallavi Gupta,pallavi@email.com,Rohan Verma,Cyberbullying,IT Act
+FIR2024750,09-05-2024 07:30,Mumbai,19.0759837,72.8776559,Abhinav Sharma,abhinav@email.com,Kritika Kapoor,Stalking and Harassment,IPC 354D
+FIR2024751,10-05-2024 16:25,Chennai,13.0826802,80.2707184,Prakash Mehta,prakash@email.com,Deepa Verma,Illegal Gambling,Various Gambling Laws
+FIR2024752,11-05-2024 12:40,Bangalore,12.9715987,77.5945627,Komal Reddy,komal@email.com,Sanjay Das,Child Abuse,IPC 370
+FIR2024753,12-05-2024 08:15,Hyderabad,17.385044,78.486671,Aditi Singh,aditi@email.com,Anil Yadav,Money Laundering,Prevention of Money Laundering Act
+FIR2024754,13-05-2024 14:20,Pune,18.5204303,73.8567437,Anuj Das,anuj@email.com,Megha Tiwari,Animal Cruelty,IPC 428
+FIR2024755,14-05-2024 10:55,Jaipur,26.9124336,75.7872709,Varun Kapoor,varun@email.com,Simran Mehta,Identity Theft,IPC 420
+FIR2024756,15-05-2024 07:40,Delhi,28.7040592,77.1024902,Kirti Mehta,kirti@email.com,Vivek Verma,Domestic Violence,Protection of Women from Domestic Violence Act
+FIR2024757,16-05-2024 17:15,Mumbai,19.0759837,72.8776559,Rohini Yadav,rohini@email.com,Rajesh Mehta,Burglary,IPC 454
+FIR2024758,17-05-2024 10:15,Bangalore,12.9715987,77.5945627,Alok Verma,alok@email.com,Ananya Tiwari,Kidnapping of a Minor,IPC 363
+FIR2024759,18-05-2024 19:20,Chennai,13.0826802,80.2707184,Shashi Kapoor,shashi@email.com,Aditi Sharma,Physical Assault,IPC 351
+FIR2024760,19-05-2024 08:45,Hyderabad,17.385044,78.486671,Sandhya Verma,sandhya@email.com,Sumit Mehta,Robbery at Jewelry Store,IPC 392
+FIR2024761,20-05-2024 14:10,Pune,18.5204303,73.8567437,Ramesh Mehta,ramesh@email.com,Kusum Tiwari,Theft of Mobile Phone,IPC 379
+FIR2024762,21-05-2024 17:35,Jaipur,26.9124336,75.7872709,Aman Verma,aman@email.com,Anu Das,Robbery at Bank,IPC 392
+FIR2024763,22-05-2024 09:05,Delhi,28.7040592,77.1024902,Rina Gupta,rina@email.com,Sunil Kumar,Robbery at Electronics Store,IPC 392
+FIR2024764,23-05-2024 12:15,Mumbai,19.0759837,72.8776559,Meghna Sharma,meghna@email.com,Arjun Kapoor,Theft of Valuables,IPC 379
+FIR2024765,24-05-2024 15:45,Chennai,13.0826802,80.2707184,Anup Verma,anup@email.com,Sangeeta Das,Burglary at Residence,IPC 454
+FIR2024766,25-05-2024 10:10,Bangalore,12.9715987,77.5945627,Parul Tiwari,parul@email.com,Amita Reddy,Drug Trafficking,NDPS Act
+FIR2024767,26-05-2024 08:20,Hyderabad,17.385044,78.486671,Subhash Kapoor,subhash@email.com,Kiran Mehta,Cyber Fraud,IT Act
+FIR2024768,27-05-2024 16:30,Pune,18.5204303,73.8567437,Vikram Mehta,vikram@email.com,Manisha Tiwari,Human Trafficking,IPC 370
+FIR2024769,28-05-2024 09:50,Jaipur,26.9124336,75.7872709,Nisha Verma,nisha@email.com,Virendra Das,Counterfeiting Currency,IPC 489-B
+FIR2024770,29-05-2024 14:55,Delhi,28.7040592,77.1024902,Rishi Tiwari,rishi@email.com,Deepika Verma,Public Nuisance,IPC 268
+FIR2024771,30-05-2024 18:10,Mumbai,19.0759837,72.8776559,Varsha Das,varsha@email.com,Arvind Tiwari,Cyberbullying,IT Act
+FIR2024772,31-05-2024 07:30,Bangalore,12.9715987,77.5945627,Prabhat Kapoor,prabhat@email.com,Priyanka Verma,Stalking and Harassment,IPC 354D
+FIR2024773,01-06-2024 16:25,Chennai,13.0826802,80.2707184,Alka Mehta,alka@email.com,Vinod Yadav,Illegal Gambling,Various Gambling Laws
+FIR2024774,02-06-2024 12:40,Bangalore,12.9715987,77.5945627,Sunaina Reddy,sunaina@email.com,Anil Sharma,Child Abuse,IPC 370
+FIR2024775,03-06-2024 08:15,Hyderabad,17.385044,78.486671,Prashant Kapoor,prashant@email.com,Seema Tiwari,Money Laundering,Prevention of Money Laundering Act
+FIR2024776,04-06-2024 14:20,Pune,18.5204303,73.8567437,Deepak Das,deepak@email.com,Meera Verma,Animal Cruelty,IPC 428
+FIR2024777,05-06-2024 10:55,Jaipur,26.9124336,75.7872709,Arun Mehta,arun@email.com,Anjali Kapoor,Identity Theft,IPC 420
+FIR2024778,06-06-2024 07:40,Delhi,28.7040592,77.1024902,Alok Tiwari,alok@email.com,Shweta Verma,Domestic Violence,Protection of Women from Domestic Violence Act
+FIR2024779,07-06-2024 17:15,Mumbai,19.0759837,72.8776559,Rajeev Verma,rajeev@email.com,Manju Sharma,Burglary,IPC 454
+FIR2024780,08-06-2024 10:15,Bangalore,12.9715987,77.5945627,Anjali Kapoor,anjali@email.com,Prakash Mehta,Kidnapping of a Minor,IPC 363
+FIR2024781,09-06-2024 19:20,Chennai,13.0826802,80.2707184,Gaurav Verma,gaurav@email.com,Rekha Tiwari,Physical Assault,IPC 351
+FIR2024782,10-06-2024 08:45,Hyderabad,17.385044,78.486671,Sonal Das,sonal@email.com,Ankit Verma,Robbery at Jewelry Store,IPC 392
+FIR2024783,11-06-2024 14:10,Pune,18.5204303,73.8567437,Asha Mehta,asha@email.com,Avinash Das,Theft of Mobile Phone,IPC 379
+FIR2024784,12-06-2024 17:35,Jaipur,26.9124336,75.7872709,Anil Yadav,anil@email.com,Deepika Verma,Robbery at Bank,IPC 392
+FIR2024785,13-06-2024 09:05,Delhi,28.7040592,77.1024902,Poonam Das,poonam@email.com,Anuj Tiwari,Robbery at Electronics Store,IPC 392
+FIR2024786,14-06-2024 12:15,Mumbai,19.0759837,72.8776559,Ravi Kapoor,ravi@email.com,Rachana Sharma,Theft of Valuables,IPC 379
+FIR2024787,15-06-2024 15:45,Chennai,13.0826802,80.2707184,Meenakshi Verma,meenakshi@email.com,Kuldeep Mehta,Burglary at Residence,IPC 454
+FIR2024788,16-06-2024 10:10,Bangalore,12.9715987,77.5945627,Kunal Mehta,kunal@email.com,Kavita Das,Drug Trafficking,NDPS Act
+FIR2024789,17-06-2024 08:20,Hyderabad,17.385044,78.486671,Simran Kapoor,simran@email.com,Santosh Yadav,Cyber Fraud,IT Act
+FIR2024790,18-06-2024 16:30,Pune,18.5204303,73.8567437,Rishi Mehta,rishi@email.com,Neha Verma,Human Trafficking,IPC 370
+FIR2024791,19-06-2024 09:50,Jaipur,26.9124336,75.7872709,Priyanka Das,priyanka@email.com,Sanjay Mehta,Counterfeiting Currency,IPC 489-B
+FIR2024792,20-06-2024 14:55,Delhi,28.7040592,77.1024902,Abhishek Tiwari,abhishek@email.com,Anita Yadav,Public Nuisance,IPC 268
+FIR2024793,21-06-2024 18:10,Mumbai,19.0759837,72.8776559,Richa Verma,richa@email.com,Ashok Mehta,Cyberbullying,IT Act
+FIR2024794,22-06-2024 07:30,Bangalore,12.9715987,77.5945627,Sameer Das,sameer@email.com,Kiran Sharma,Stalking and Harassment,IPC 354D
+FIR2024795,23-06-2024 16:25,Chennai,13.0826802,80.2707184,Anil Verma,anil@email.com,Kavita Tiwari,Illegal Gambling,Various Gambling Laws
+FIR2024796,24-06-2024 12:40,Bangalore,12.9715987,77.5945627,Arjun Yadav,arjun@email.com,Ritu Kapoor,Child Abuse,IPC 370
+FIR2024797,25-06-2024 08:15,Hyderabad,17.385044,78.486671,Nisha Sharma,nisha@email.com,Sunil Mehta,Money Laundering,Prevention of Money Laundering Act
+FIR2024798,26-06-2024 14:20,Pune,18.5204303,73.8567437,Rahul Mehta,rahul@email.com,Anjali Kapoor,Animal Cruelty,IPC 428
+FIR2024799,27-06-2024 10:55,Jaipur,26.9124336,75.7872709,Alok Mehta,alok@email.com,Prabhat Tiwari,Identity Theft,IPC 420
+FIR2024800,28-06-2024 07:40,Delhi,28.7040592,77.1024902,Sonam Verma,sonam@email.com,Kunal Kapoor,Domestic Violence,Protection of Women from Domestic Violence Act
+FIR2024801,29-06-2024 17:15,Mumbai,19.0759837,72.8776559,Virendra Mehta,virendra@email.com,Geeta Tiwari,Burglary,IPC 454
+FIR2024802,30-06-2024 10:15,Bangalore,12.9715987,77.5945627,Anu Yadav,anu@email.com,Rahul Sharma,Kidnapping of a Minor,IPC 363
+FIR2024803,01-07-2024 19:20,Chennai,13.0826802,80.2707184,Preeti Mehta,preeti@email.com,Sanjay Yadav,Physical Assault,IPC 351
+FIR2024804,02-07-2024 08:45,Hyderabad,17.385044,78.486671,Kusum Das,kusum@email.com,Arvind Mehta,Robbery at Jewelry Store,IPC 392
