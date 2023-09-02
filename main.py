@@ -12,7 +12,7 @@ st.set_page_config(
 
 class MultiApp:
 
-    def __init__(self):
+    def _init_(self):
         self.apps = []
 
     def add_app(self, title, func,):

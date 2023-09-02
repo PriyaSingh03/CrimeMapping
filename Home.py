@@ -1,19 +1,23 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 
-# def app():
+@st.cache_data  # Cache the data to improve performance
+def load_data():
+    # Replace with the path to your CSV file
+    data = pd.read_csv('all_india_fir_data - sample.csv.csv')
+    return data
 
+def app():
+    st.title("Location Data on Map")
+    
+    # Load the data
+    data = load_data()
 
-df = pd.DataFrame({
-    "col1": np.random.randn(1000) / 50 + 37.76,
-    "col2": np.random.randn(1000) / 50 + -122.4,
-    "col3": np.random.randn(1000) * 100,
-    "col4": np.random.rand(1000, 4).tolist(),
-})
+    # Rename the 'Latitude' and 'Longitude' columns to 'lat' and 'lon' (standard for Streamlit)
+    data.rename(columns={'Latitude': 'lat', 'Longitude': 'lon'}, inplace=True)
 
-st.map(df,
-       latitude='col1',
-       longitude='col2',
-       size='col3',
-       color='col4')
+    # Create a Streamlit map
+    st.map(data, use_container_width=True)
+
+if __name__ == "__main__":
+    app()
