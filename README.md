@@ -36,10 +36,8 @@ To run the Crime Mapping Project, execute the following command in your terminal
 
 This will start the Streamlit web application, and it should automatically open in your default web browser. You can now use the application to explore and analyze crime data.
 
-# Usage
-Upload FIR Data: Start by uploading the FIR data (in CSV format) using the file uploader in the Streamlit app.
-Select Crime Type: Choose the crime type you want to analyze from the dropdown menu.
-Apply Filters: Optionally, apply filters such as date range and time range to narrow down the data.
-Generate Hotspots: Click the "Generate Hotspots" button to display the crime hotspots on the map.
-Customize Color Mapping: Use the color mapping options to visualize crime data differently based on parameters like date and time.
-Export Data: If needed, export the filtered and mapped crime data for further analysis.
+# Contributors
+Amandeep Singh
+Anal Rauth
+Arijit Saha
+Priya Singh
