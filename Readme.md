@@ -25,7 +25,7 @@ Before running the Crime Mapping Project, ensure you have the following prerequi
 
 Clone the project repository:
 
-`git clone https://github.com/PriyaSingh03/CrimeMapping.git`
+`git clone https://github.com/Amandeep404/CrimeMapping/tree/main`
 
 Navigate to the project directory:
 
@@ -33,19 +33,13 @@ Navigate to the project directory:
 
 Install the required Python packages:
 
-`pip install streamlit`
-
-`pip install numpy`
-
-`pip install pandas`
-
-`pip install streamlit-folium`
+`pip install -r requirements.txt`
 
 ## Running the Application
 
 To run the Crime Mapping Project, execute the following command in your terminal:
 
-`streamlit run main.py`
+`streamlit run app_1/main.py`
 
 This will start the Streamlit web application, and it should automatically open in your default web browser. You can now use the application to explore and analyze crime data.
 
