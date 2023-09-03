@@ -92,11 +92,11 @@ def app():
             HeatMap(heat_data, radius=15).add_to(map)
 
             
-            st_folium(map, width=1000)
+            st_folium(map, width=1000, key='11')
 
         
 
-    st_folium(map, width=1000)
+    st_folium(map, width=1000, key='12')
 
 
 if __name__ == "__main__":

@@ -44,15 +44,15 @@ def app():
     data.rename(columns={'Latitude': 'lat', 'Longitude': 'lon'}, inplace=True)
 
     # Create a Streamlit sidebar to select the map type
-    map_type = st.sidebar.radio("Select Map Type", ["Normal Map", 'Hotspot for Crimes'])
+    map_type = st.sidebar.radio("Select Map Type", ["Normal Map", 'Hotspot for Particular Crimes'])
 
     if map_type == "Normal Map":
         # Create and display the Folium map
         folium_map = create_folium_map(data)
-        st_folium(folium_map, width=900, zoom=4)
+        st_folium(folium_map, width=900, zoom=4, key='21')
 
     if map_type == 'Hotspot for Particular Crimes':
-         st.title("Crime Hotspot Analysis")
+         st.title("Analysis")
 
         # Load the data
          data = load_hotspot_data()
@@ -79,7 +79,7 @@ def app():
          heat_data = filtered_data[['lat', 'lon']]
          HeatMap(heat_data, radius=15).add_to(map)
 
-         st_folium(map, width=1000)
+         st_folium(map, width=1000, key = '22')
         
    
 
