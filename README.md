@@ -21,7 +21,7 @@ Before running the Crime Mapping Project, ensure you have the following prerequi
 
 # Installation
 Clone the project repository:
-`git clone https://github.com/yourusername/crime-mapping-project.git`
+`git clone https://github.com/PriyaSingh03/CrimeMapping.git`
 
 Navigate to the project directory:
 `cd crime-mapping-project`
