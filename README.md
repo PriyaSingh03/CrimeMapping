@@ -21,13 +21,22 @@ Before running the Crime Mapping Project, ensure you have the following prerequi
 
 # Installation
 Clone the project repository:
+
 `git clone https://github.com/PriyaSingh03/CrimeMapping.git`
 
 Navigate to the project directory:
+
 `cd crime-mapping-project`
 
 Install the required Python packages:
+
 `pip install streamlit`
+
+`pip install numpy`
+
+`pip install pandas`
+
+`pip install streamlit-folium`
 
 ## Running the Application
 To run the Crime Mapping Project, execute the following command in your terminal:
