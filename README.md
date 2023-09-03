@@ -37,7 +37,7 @@ To run the Crime Mapping Project, execute the following command in your terminal
 This will start the Streamlit web application, and it should automatically open in your default web browser. You can now use the application to explore and analyze crime data.
 
 # Contributors
-Amandeep Singh
-Anal Rauth
-Arijit Saha
-Priya Singh
+* [Ariiit Saha](http://github.com/rohanroc)
+* [Amandeep Singh](https://github.com/amandeep404)
+* [Anal Rauth](https://github.com/Anal-Rauth)
+* [Priya Singh](https://github.com/PriyaSingh03)
