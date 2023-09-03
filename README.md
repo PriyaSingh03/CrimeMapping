@@ -58,7 +58,8 @@ Crime mapping is crucial for law enforcement agencies and policymakers to alloca
 * Crime Rate by State and Crime Type: A plot is generated to display the crime rate in each state, along with the types of crimes committed. This helps in identifying regions with higher crime rates and understanding the distribution of different crime types within each state.
 * Crime Rate for All States with Respective Crime Types: Another visualization illustrates the crime rate for all states in India, highlighting the specific types of crimes prevalent in each state. This information can be valuable for law enforcement agencies to allocate resources effectively.
   
- ![image](https://github.com/PriyaSingh03/CrimeMapping/assets/107784525/66adb212-9720-49dd-ab07-54527ec17935)
+
+ <img src="https://github.com/PriyaSingh03/CrimeMapping/assets/107784525/66adb212-9720-49dd-ab07-54527ec17935" alt="drawing" style="width:600px"/>
 
 
 # Genetrating hotspots for particular types of crime(under IPC section)
