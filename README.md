@@ -15,4 +15,5 @@ Prerequisites
 Before running the Crime Mapping Project, ensure you have the following prerequisites installed:
 
 `Python 3.x`
+
 `Streamlit: You can install Streamlit using pip install streamlit`
