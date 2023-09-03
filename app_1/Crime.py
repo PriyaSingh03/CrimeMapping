@@ -34,7 +34,7 @@ def create_folium_map(data):
 def show_plot(data):
     # Group data by 'state_ut' and calculate the sum of each crime column
     crime_data = data.groupby('state_ut')[['rape', 'arson', 'robbery', 'custodial_rape',
-                                      'theft', 'riots', 'year', 'auto_theft',
+                                      'theft', 'riots', 'auto_theft',
                                       'kidnapping_abduction', 'dacoity', 'cheating', 'murder', 'other_ipc_crimes', 'dowry_deaths',]].sum()
 
     # Create a Streamlit sidebar to select the state

@@ -1,17 +1,15 @@
 import streamlit as st
-import os
 import pandas as pd
 import folium
+import os
 from folium.plugins import HeatMap
 from streamlit_folium import st_folium
 
-current_directory = os.getcwd()
-st.write(f"Current working directory: {current_directory}")
 
 @st.cache_data  # Cache the data to improve performance
 def load_data():
     # Replace with the path to your CSV file
-    st.write(f"Loading data from: {current_directory}")
+    # st.write(f"Loading data from: {current_directory}")
     data = pd.read_csv('PERFECT_FIR_DATASET.csv')
     return data
 
