@@ -1,10 +1,6 @@
 import streamlit as st
-# from config import configure_app
 
-# Call the configuration function to set the page config
-# configure_app()
 
-# Your Streamlit app code
 def app():
     # Header
     st.title("Welcome to the Crime Mapping Model 🗺️")
