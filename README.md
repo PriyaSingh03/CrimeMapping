@@ -27,7 +27,7 @@ Navigate to the project directory:
 `cd crime-mapping-project`
 
 Install the required Python packages:
-`pip install -r requirements.txt`
+`pip install streamlit`
 
 ## Running the Application
 To run the Crime Mapping Project, execute the following command in your terminal:
