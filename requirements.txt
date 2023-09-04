@@ -4,4 +4,3 @@ folium
 streamlit_folium
 matplotlib
 streamlit_option_menu
-os
