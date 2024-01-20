@@ -6,7 +6,7 @@ from streamlit_folium import st_folium
 
 @st.cache_data  # Cache the data to improve performance
 def load_data():
-    data = pd.read_csv('CONCAT_CRIME_IPC_DATA_HEAD_500_geocoded.csv')
+    data = pd.read_csv('app_1\CONCAT_CRIME_IPC_DATA_HEAD_500_geocoded.csv')
     return data
 
 @st.cache_data  

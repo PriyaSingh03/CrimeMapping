@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 @st.cache_data  # Cache the data to improve performance
 def load_data():
     
-    data = pd.read_csv('PERFECT_FIR_DATASET.csv')
+    data = pd.read_csv('app_1\PERFECT_FIR_DATASET.csv')
     return data
 
 def get_color_based_on_parameter(row, parameter):
